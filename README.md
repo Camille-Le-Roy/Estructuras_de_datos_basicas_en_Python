@@ -13,7 +13,9 @@ En este curso aprenderás:
 ## Curso en video
 Incluye un video donde se explican los conceptos y se muestran ejemplos prácticos.
 
-[![Ver el video del curso](./thumbnail_video.png)](https://youtu.be/EPWBrjKez50)
+<a href="https://youtu.be/EPWBrjKez50">
+  <img src="thumbnail_video.png" alt="Ver el video del curso" width="600">
+</a>
 
 
 ---
