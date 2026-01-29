@@ -12,7 +12,7 @@ En este curso aprenderás:
 
 ## Curso en video
 Incluye un video donde se explican los conceptos y se muestran ejemplos prácticos.  
-[![Ver el video del curso](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Ver el video del curso](https://img.youtube.com/vi/epwBrjKez50/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/epwBrjKez50)
 
 
 ---
