@@ -19,17 +19,18 @@ En este curso aprenderás:
 
 ---
 
-## Notebook con el código
+## [Notebook con el código](Como_manejar_datos_en_Python.ipynb)
 Contiene todo el código usado en el video para que puedas practicar y probarlo por tu cuenta.
 
 ---
 
-## Quiz teórico
+## [Quiz teórico](Reto de Python, Listas, Tuplas y Diccionarios.pdf)
 Un quiz en PDF para comprobar que entendiste los conceptos.
 
 ---
 
-## Ejercicio práctico
-Un notebook con un ejercicio para aplicar lo aprendido.  
+## [Ejercicio práctico](Proyecto_Sistema_de_gestion_de_pedidos.ipynb)
+Un notebook con un ejercicio para aplicar lo aprendido.
+
 
 
