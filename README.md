@@ -24,7 +24,7 @@ Contiene todo el código usado en el video para que puedas practicar y probarlo 
 
 ---
 
-## [Quiz teórico](Reto de Python, Listas, Tuplas y Diccionarios.pdf)
+## [Quiz teórico](Reto_de_Python_Listas_Tuplas_y_Diccionarios.pdf)
 Un quiz en PDF para comprobar que entendiste los conceptos.
 
 ---
