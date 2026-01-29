@@ -15,6 +15,7 @@ Incluye un video donde se explican los conceptos y se muestran ejemplos práctic
 [![Ver el video del curso](https://img.youtube.com/vi/epwBrjKez50/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/epwBrjKez50)
 
 
+
 ---
 
 ## Notebook con el código
