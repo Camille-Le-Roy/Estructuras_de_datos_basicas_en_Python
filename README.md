@@ -1,4 +1,4 @@
-# Estructuras de Datos Basica en Python  
+# Estructuras de Datos Básica en Python  
 **Listas, Tuplas y Diccionarios**
 
 Este repositorio contiene el material del curso **“Estructuras de datos básicas en Python”**.
