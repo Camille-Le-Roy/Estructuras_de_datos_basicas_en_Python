@@ -12,7 +12,7 @@ En este curso aprenderás:
 
 ## Curso en video
 
-<a href="[https://youtu.be/EPWBrjKez50](https://www.youtube.com/watch?v=epwBrjKez50)">
+<a href="hhttps://www.youtube.com/watch?v=epwBrjKez50">
   <img src="thumbnail_video.png" alt="Ver el video del curso" width="600">
 </a>
 
